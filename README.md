@@ -5,7 +5,7 @@ WEBSITE CETAK STRUKTUR SUDAH ALL OTOMATIS KALKULASI OTOMATIS JADI ALL AMAN BISA 
 🔗 DEMO WEBSITE [Demo Website](https://alzzhosting.github.io/AlzzoffcCetakStruk.github.io/)
 
 WHATSAPP:
-[wa.me/alzzoffc](https://wa.me/6288215523477)
+[wa.me/alzzoffc.com](https://wa.me/6288215523477)
 
 💻CARA PENGGUNAAN
 > DOWNLOAD TERLEBIH DAHULU FILE HTML & SCRIPT.JS
