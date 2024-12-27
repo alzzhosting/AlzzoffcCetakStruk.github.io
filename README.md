@@ -1,4 +1,6 @@
 HAI CUY SAYA AKAN MEMBAGIKAN HTML & JS CETAK STRUK OTOMATIS
 
+WEBSITE CETAK STRUKTUR SUDAH ALL OTOMATIS KALKULASI OTOMATIS JADI ALL AMAN BISA KALIAN GANTI DI BAGIAN NAMA TOKO
 
-🔗DEMO WEBSITE [Demo Website](https://alzzhosting.github.io/AlzzoffcCetakStruk.github.io/)
+🔗 DEMO WEBSITE [Demo Website](https://alzzhosting.github.io/AlzzoffcCetakStruk.github.io/)
+
