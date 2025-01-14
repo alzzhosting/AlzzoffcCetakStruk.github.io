@@ -1,5 +1,5 @@
 let barangList = [];
-const namaToko = "AlzzOffc";
+const namaToko = "KenzDev";
 const footerText = `TERIMA KASIH TELAH BELANJA Di\n${namaToko}`;
 
 function tambahBarang() {
@@ -130,7 +130,7 @@ function resetForm() {
 function cetakGambar() {
     const canvas = document.getElementById("canvas");
     const link = document.createElement("a");
-    link.download = "struk-pembayaran.png";
-    link.href = canvas.toDataURL("image/png");
+    link.download = "struk-pembayaran.jpg";
+    link.href = canvas.toDataURL("image/jpg");
     link.click();
 }
